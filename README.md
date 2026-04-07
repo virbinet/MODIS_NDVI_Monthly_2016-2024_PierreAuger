@@ -2,6 +2,8 @@
 
 **Monthly NDVI (Normalized Difference Vegetation Index) analysis** for the Pierre Auger Observatory region using MODIS satellite data (2016–2024). This repository includes scripts for exporting, visualizing, and plotting NDVI data using Google Earth Engine, Google Colab, and Python.
 
+<img width="988" height="717" alt="image" src="https://github.com/user-attachments/assets/0aab1ed1-a1f7-4821-9ba2-e24965033b1d" />
+
 ---
 
 ## Features
